@@ -8,7 +8,7 @@ public class Main {
         System.out.println();
 //        System.out.println(book1.getBookInfo());
 
-        Book printedBook = new PrintedBook("1984", "George Orwell", 1949, "Secker & Warburg", 328);
+        Book printedBook = new PrintedBook("1984", "George Orwell", 1949, "AIT", 328);
 //        printedBook.bookType();
         printedBook.printBookDetails();
 //        System.out.println(printedBook.getBookInfo());
